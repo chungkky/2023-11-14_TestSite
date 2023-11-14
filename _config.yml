@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Test site created during 14 November 2023 workshop on building Jekyll Websites, Sherman Centre for Digital Scholarship and the McMaster University Library.
 baseurl: "/2023-11-14_TestSite" # the subpath of your site, e.g. /blog
 url: "https://chungkky.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  Jekyll
+twitter_username: 
+github_username:  chungkky
 
 # Build settings
 theme: minima
